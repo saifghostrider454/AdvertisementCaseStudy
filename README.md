@@ -1,3 +1,9 @@
+![3156627](https://github.com/saifghostrider454/AdvertisementCaseStudy/assets/137523741/8cd4869a-5a23-4149-aa07-aeb691a1c4ce)
+
+                
+                
+                
+                
                 Market Analysis and Improvement Strategies for Company XYZ
 ------------------------------------------------------------------------------------------------
 
