@@ -230,7 +230,7 @@ can optimize their efforts for sustained and impactful customer acquisition.
                                       Profitability Analysis by Month
 
 
-![Percentage of Profitable and Loss-making Transactions by Month](https://github.com/saifghostrider454/AdvertisementCaseStudy/assets/137523741/5d4bdf59-2d86-413e-8181-26834c23803e)
+![Percentage of Profitable and Loss-making Transactions by Month](https://github.com/saifghostrider454/AdvertisementCaseStudy/assets/137523741/2a94981b-495d-4e6c-9c05-362960a2c33d)
 
 
                                         Objective:
