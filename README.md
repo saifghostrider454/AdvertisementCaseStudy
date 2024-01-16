@@ -137,13 +137,15 @@ sales and market share.
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
+                                Analysis of New Customer Acquisition Trends
+
 
 ![New Customer Acquisition Trend Over Time](https://github.com/saifghostrider454/AdvertisementCaseStudy/assets/137523741/48c91f83-c920-475f-9ad9-6641793e1dff)
 
 
 
 
-                                Analysis of New Customer Acquisition Trends
+                            
 
                                                 Objective:
 The Marketing Team recently initiated a campaign, and the focus is on understanding the effectiveness 
