@@ -229,7 +229,11 @@ can optimize their efforts for sustained and impactful customer acquisition.
 
                                       Profitability Analysis by Month
 
-                                      Objective:
+
+![Percentage of Profitable and Loss-making Transactions by Month](https://github.com/saifghostrider454/AdvertisementCaseStudy/assets/137523741/5d4bdf59-2d86-413e-8181-26834c23803e)
+
+
+                                        Objective:
 The business aims to calculate the profitability per business day and understand the distribution of profitable and 
 unprofitable days each month.
 
