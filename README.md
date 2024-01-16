@@ -249,6 +249,8 @@ The provided data includes the profit and loss figures for each month, specifyin
 
   * The table outlines the profit and loss for each month, providing a snapshot of the financial performance during the specified periods.
 
+  ![Percentage of Profitable and Loss-making Transactions every Month jpg](https://github.com/saifghostrider454/AdvertisementCaseStudy/assets/137523741/6bf16205-8a0e-440b-8b9c-97bb087f5a36)
+
 
 3. Profitability by Day:
 
