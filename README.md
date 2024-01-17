@@ -310,12 +310,12 @@ This understanding enables informed decision-making and strategic planning for o
 
 
 
-![CohartAnalysis](https://github.com/saifghostrider454/AdvertisementCaseStudy/assets/137523741/0c783d73-9548-4d7a-95bd-6360cd592293)
+![CohartAnalysis](https://github.com/saifghostrider454/AdvertisementCaseStudy/assets/137523741/437e43b6-2e18-46cc-ad7e-e815769c5e09)
 
 
 
 
-![Cohort Analysis Plot](https://github.com/saifghostrider454/AdvertisementCaseStudy/assets/137523741/df9c8441-2dfb-4c48-81be-cb46591b59cb)
+![Cohort Analysis Plot](https://github.com/saifghostrider454/AdvertisementCaseStudy/assets/137523741/2a3a3400-d654-4719-84cf-b0f6684e072b)
 
 
 
