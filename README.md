@@ -387,3 +387,95 @@ of these customers. It aligns with industry-level goals and sets the stage for s
 
 This detailed presentation helps convey the strategic importance of targeting Cohort 2011 and provides the client with a clear understanding 
 of the rationale behind the recommendation.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+******************************************************************************************************************************************
+******************************************************************************************************************************************
+******************************************************************************************************************************************
+
+
+
+
+![Sales CAGR Compair](https://github.com/saifghostrider454/AdvertisementCaseStudy/assets/137523741/616b2d77-a4d6-43bc-a743-052556b094e4)
+
+
+
+                          Sales CAGR Analysis and Impact of Filtering Bottom 10 Percentile Transactions
+
+Objective:
+The Strategy team aims to identify the top 5 countries with the best Sales Compound Annual Growth Rate (CAGR). 
+There's a hypothesis that removing the Bottom 10 Percentile transactions will impact the ranking of the top countries. 
+The analysis aims to validate this hypothesis.
+
+
+Data:
+The data includes the Sales CAGR for each country before and after filtering out the Bottom 10 Percentile transactions.
+
+
+
+Analysis:
+
+1. Top 5 Countries Before Filtering:
+
+  * Before applying the filter, the top 5 countries with the best Sales CAGR are as follows:
+
+![BeforeRemovingPercentile](https://github.com/saifghostrider454/AdvertisementCaseStudy/assets/137523741/8b39823f-954f-4a6d-b6cf-1d941b766356)
+
+
+
+
+2. Filtering Bottom 10 Percentile Transactions:
+
+  * The Bottom 10 Percentile transactions are filtered out, and the analysis is re-run.
+
+
+3. Top 5 Countries After Filtering:
+
+  * The top 5 countries with the best Sales CAGR after filtering are as follows:
+
+![AfterRemovingPercentile](https://github.com/saifghostrider454/AdvertisementCaseStudy/assets/137523741/c3b12cf7-847b-4596-b67c-611ae9c766b1)
+
+
+Impact Analysis:
+
+
+1. Consistency in Top Performer:
+
+  * South Africa maintains its position as the top-performing country in Sales CAGR before and after filtering, indicating robust growth.
+
+
+2. Changes in Ranking:
+
+  * Other countries, such as Mauritania, Uruguay, Lesotho, and Chad, see shifts in ranking after filtering out the Bottom 10 Percentile 
+    transactions.
+
+
+3. Filtered Impact on Rankings:
+
+  * Filtering out lower-performing transactions appears to have a notable impact on the rankings, suggesting that excluding less successful 
+    transactions can influence the assessment of Sales CAGR.
+
+
+
+Recommendation:
+
+  * Acknowledge the influence of transaction filtering on Sales CAGR rankings.
+  * Consider the strategic implications of focusing on top-performing transactions for a more accurate representation 
+    of growth potential.
+
+
+Conclusion:
+  
+  * The analysis highlights the sensitivity of Sales CAGR rankings to the inclusion or exclusion of lower-performing transactions. 
+    Recognizing this impact is crucial for making informed strategic decisions, and the Strategy team should carefully weigh the 
+    trade-offs in their approach to data analysis.
