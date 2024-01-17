@@ -310,6 +310,16 @@ This understanding enables informed decision-making and strategic planning for o
 
 
 
+![CohartAnalysis](https://github.com/saifghostrider454/AdvertisementCaseStudy/assets/137523741/0c783d73-9548-4d7a-95bd-6360cd592293)
+
+
+
+
+![Cohort Analysis Plot](https://github.com/saifghostrider454/AdvertisementCaseStudy/assets/137523741/df9c8441-2dfb-4c48-81be-cb46591b59cb)
+
+
+
+
                                       Cohort Analysis Recommendation: Targeting Cohort 2011
 
 
